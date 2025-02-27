@@ -1,0 +1,9 @@
+{
+    "name": "Py10kAsh",
+    "version": "0.1.0",
+    "title": "Py 10k Ash Stack Size",
+    "author": "Tomhero200",
+    "description": "Changes The max stack size of the Pyanodons ash to 10.000.",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0", "pycoalprocessing >= 3.0"]
+}
